@@ -49,6 +49,6 @@ The Program Initiates By Presenting The User With A Set Of Menu Choices:
 
 - The User Decides To Quit The Program
 
-## License
+## License:
 
 This Project Is Licensed Under The [GNU General Public License V3.0](LICENSE). Adherence To The Terms And Conditions Of The License Is Required.
